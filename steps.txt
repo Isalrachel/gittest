@@ -1,0 +1,13 @@
+  133  git status
+  134  git init
+  135  git add .
+  136  git commit -m "new project"
+  137  git log
+  138  git status
+  139  touch history.html leadership.html
+  140  ls
+  141  git status
+  142  git add .
+  143  git commit -m "added subpages"
+  144  git status
+  145  history
