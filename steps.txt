@@ -11,3 +11,5 @@
   143  git commit -m "added subpages"
   144  git status
   145  history
+ git push https://github.com/Isalrachel/gittestlocal.git master
+git clone https://github.com/Isalrachel/gittestlocal.git isal
